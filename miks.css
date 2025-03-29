@@ -1,0 +1,19 @@
+body{
+	background-color: darkgray;
+}
+
+.content{
+	color: whitesmoke;
+	padding: 10px;
+	background-image: linear-gradient(#42455a,#42455a), radial-gradient(circle at top left,#fd00da,#19d7f8);
+	background-origin: border-box;
+	background-clip: content-box,border-box;
+	text-shadow: 0 0 0.25em currentColor;
+	text-align: center;
+	font-size: 50px;
+}
+
+.content1{
+	text-align: center;
+
+}
